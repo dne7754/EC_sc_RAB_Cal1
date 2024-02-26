@@ -1,6 +1,7 @@
 # Melanoma dataset GSE72056
 # downloaded GSE72056_melanoma_single_cell_revised_v2.txt.gz
 # Code evaluates gene expression and gene signatures from pre-identified cell populations, as defined in Tirosh I, et al. Science. 352(6282): 189-196 (2016).
+# Analysis was performed using Seurat package version 4.9.9.9060
 
 #load libraries
 library(Seurat)
